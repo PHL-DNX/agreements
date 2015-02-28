@@ -10,7 +10,7 @@ All communication should be appropriate for a professional audience including pe
 
 Be kind to others. Do not insult or put down other members. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for the Philly CocoaHeads community.
 
-These expectations are to be considered during your participattion at all group related events and gatherings. It also extends to your behavior in the community at large as well.
+These expectations are to be considered during your participation at all group related events and gatherings. It also extends to your behavior in the community at large.
 
 Members violating these rules may be asked to leave the group or disciplined at the sole discretion of the organizers.
 
@@ -18,7 +18,7 @@ Thank you for helping make this a welcoming, friendly group for all.
 
 ## What is Harassment?
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes but is not limited to: offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 

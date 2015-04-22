@@ -1,7 +1,7 @@
-# Agreements
+## Agreements
 
 A place to store the various agreements we use to run the organization.
 
---- 
+These were forked from the PhillyCocoa meetup group: https://github.com/phillycocoa/agreements
 
-> In the future, the home for these agreements may move into our formal website system but for now, to get them somewhere where we can add, edit and track them I'll make this repo. ~Zorn
+They are a good idea for that group, and they're good for us, too. Thanks [PhillyCocoa](http://phillycocoa.org/)!
